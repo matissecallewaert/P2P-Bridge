@@ -41,3 +41,5 @@ evaluation/
 output_objects/
 pretrained/
 data/objects
+*.xyz
+.python-version
